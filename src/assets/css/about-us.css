@@ -1,0 +1,43 @@
+.barraFondo {
+  background-color: #002b5c;
+}
+
+.bordeEstilo {
+  /* color: #002B5C; */
+  /* border-color: #002B5C; */
+  border-width: 5px;
+  border-style: solid;
+}
+
+.titulo {
+  /* color: #2569B8; */
+  font-family: Permanent Marker;
+  font-size: 2rem;
+}
+
+.subtitulo {
+  /* color: #002B5C; */
+  font-family: Montserrat;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+.subtitulo2 {
+  /* color: #002B5C; */
+  font-family: Permanent Marker;
+}
+
+.texto {
+  /* color: #002B5C; */
+  font-family: Montserrat;
+}
+
+.img-nombre {
+  display: inline;
+}
+a{
+  color: #002b5c;
+}
+a:hover{
+  text-decoration: underline;
+}

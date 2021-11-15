@@ -1,0 +1,83 @@
+.font-titles{
+    font-family: 'Permanent Marker', cursive;
+    font-size:70px;
+}
+.font-bold{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.font-regular{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.text-menu{
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 1.5;
+    text-align: center;
+}
+#form-box{
+    border-width: 5px;
+    border-color:rgba(0, 43, 92, 1);
+    border-style: solid;
+    max-width: 700px;
+    margin: 0 auto;
+}
+#button-send{
+    border-width: 5px;
+    border-style: solid;
+    height: 70px;
+    width: 170px;
+}
+#validationDefault01{
+    background-color:rgba(37, 105, 184, 1);
+    border-width: 5px;
+    border-color:rgba(0, 43, 92, 1);
+    border-style: solid;
+    color:rgba(0, 43, 92, 1);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+#exampleInputEmail1{
+    background-color:rgba(37, 105, 184, 1);
+    border-width: 5px;
+    border-color:rgba(0, 43, 92, 1);
+    border-style: solid;
+    color:rgba(0, 43, 92, 1);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+#validationTextarea{
+    background-color:rgba(37, 105, 184, 1);
+    border-width: 5px;
+    border-color:rgba(0, 43, 92, 1);
+    border-style: solid;
+    color:rgba(0, 43, 92, 1);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    height: 200px;
+}
+#back{ 
+    background-image: linear-gradient(90deg, rgba(37,105,184,0.6702031154258579) 100%, rgba(37,105,184,0.404096672848827) 100%), url("../images/contact/collage1.png"); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+}
+/* style1
+background-image: linear-gradient(90deg, rgba(37,105,184,0.6702031154258579) 100%, rgba(37,105,184,0.404096672848827) 100%), url("collage.png"); */
+/* style 2 no lo necesita */
+
+/* style 2 no necesita filtro
+background-image: url("collage.png"); */
+/* style 3
+    background-image: linear-gradient(90deg, rgba(228,77,65,1) 0%, rgba(228,77,65,0.6057773451177346) 0%), url("collage.png")
+ */
+ /* style 4
+linear-gradient(90deg, rgba(254,196,81,1) 0%, rgba(254,196,81,0.6561975131849616) 0%), url("collage.png") */

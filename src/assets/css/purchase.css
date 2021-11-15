@@ -1,0 +1,41 @@
+body {
+  background-color: #e44d41;
+}
+
+.container-fluid {
+  background-color: white;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #e44d41;
+}
+a:hover {
+  color: #10476e;
+  text-decoration: none;
+}
+.button:hover {
+  background-color: yellow;
+}
+
+#box {
+  border-width: 5px;
+  border-color: rgba(0, 43, 92, 1);
+}
+
+.font-regular {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+#title {
+  font-family: "Permanent Marker", cursive;
+  font-size: 50px;
+}
+#list {
+  list-style: none;
+}
+
+.container {
+  margin-top: 100px;
+}

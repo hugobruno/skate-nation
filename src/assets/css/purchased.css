@@ -1,0 +1,31 @@
+#box {
+  border-width: 5px;
+  border-color: rgba(0, 43, 92, 1);
+  margin: 0 auto;
+}
+
+.font-regular {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+#title {
+  font-family: "Permanent Marker", cursive;
+  font-size: 50px;
+}
+.card-text {
+  font-weight: 700;
+}
+#list {
+  list-style: none;
+}
+
+li p {
+  font-weight: 700;
+  background-color: rgb(11, 23, 24);
+}
+.total {
+  font-family: "Permanent Marker", cursive;
+  font-size: 30px;
+  text-decoration: underline 3px;
+}

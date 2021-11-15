@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100%;
+  width: 100%;
+  place-items: center;
+  display: grid;
+}
+/* 4 opciones de colores */
+/* borde */
+.bordS {
+  border-color: rgba(0, 43, 92, 1);
+}
+.style1 {
+  background-color: rgba(37, 105, 184, 1);
+}
+.style1-comp {
+  background-color: rgba(0, 43, 92, 1);
+}
+/* letras */
+.font-mainColor-s1 {
+  color: rgba(0, 43, 92, 1);
+}
+.font-compColor-s1 {
+  color: rgba(37, 105, 184, 1);
+}
+/* color */
+.style2 {
+  background-color: rgba(115, 149, 73, 1);
+}
+.style2-comp {
+  background-color: rgba(37, 37, 36, 1);
+}
+/* letras */
+.font-mainColor-s2 {
+  color: rgba(37, 37, 36, 1);
+}
+.font-compColor-s2 {
+  color: rgba(115, 149, 73, 1);
+}
+/* color */
+.style3 {
+  background-color: rgba(228, 77, 65, 0.9);
+}
+/* letrs */
+.font-mainColor-s3 {
+  color: rgba(16, 71, 110, 1);
+}
+.font-compColor-s3 {
+  color: rgba(228, 77, 65, 0.9);
+}
+/* color */
+.style3-comp {
+  background-color: rgba(16, 71, 110, 1);
+}
+
+.style4 {
+  background-color: rgba(254, 196, 81, 0.9);
+}
+.style4-comp {
+  background-color: rgba(16, 71, 110, 1);
+}
+/* letras */
+.font-compColor-s4 {
+  color: rgba(254, 196, 81, 0.9);
+}
+.font-mainColor-s4 {
+  color: rgba(16, 71, 110, 1);
+}
+/* bordes */
